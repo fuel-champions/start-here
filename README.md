@@ -18,6 +18,8 @@ To become a part of the program you need to have some experience with Fuel and t
 * Exclusive merch based on level and contributions
 * Chances to join Champions only events and meetups both online and in person
 
+Champions are auto-renewed every year once they have been accepted into the program, pending being active in the program. An inactive Champion over the course of a calendar year will risk being removed from the program. Once accepted, we encourage you to participate in initiatives and discussions and take full advantage of what the program has to offer!
+
 ### Champion Levels
 
 The Fuel Developer Champions Program has 4 levels:
