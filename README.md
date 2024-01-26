@@ -1,5 +1,7 @@
 Welcome to the Fuel Developer Champions Program! 🙌
 
+![Banner Image](banner.png)
+
 In this repository you will find all the information you need to get started with the program.
 
 1. [What is the Fuel Developer Champions Program?](#what-is-the-fuel-developer-champions-program)
