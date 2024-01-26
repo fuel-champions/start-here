@@ -1,3 +1,5 @@
+![Banner Image](banner.png)
+
 Welcome to the Fuel Developer Champions Program! 🙌
 
 In this repository you will find all the information you need to get started with the program.
